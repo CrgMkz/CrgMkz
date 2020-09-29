@@ -1,5 +1,5 @@
 ## Hello, I'm Craig 👋
-#### I'm a self taught software developer based in Edinburgh, Scotland. 
+#### I'm a software developer based in Edinburgh, Scotland. 
 I enjoy exploring AWS services, improving my Python, and learning about others experiences in the field 🤓
 
 - 🔭 I’m currently working on creating a local gui for AWS SSM Param Store. This will help with my React learning, and also help me avoid the param store console
